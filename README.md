@@ -65,3 +65,55 @@ Visualization & Debugging: Focus on understanding flow before coding.
 Applied Practice: Targeted problem-solving on graph-heavy platforms and contests.
 
 WEEK 4 - https://colab.research.google.com/drive/18oOokYLKvIKN6qIZ0tQVQC16tQ_yzSzJ?usp=drive_link
+
+✅ Week 5 – Dynamic Programming (DP)
+
+Core Concepts: Breaking problems into overlapping subproblems and solving via recursion + memory.
+
+DP Techniques:
+
+Recursion: Base approach to understand the problem structure.
+
+Memoization (Top-Down): Cache subproblem results to avoid recomputation.
+
+Tabulation (Bottom-Up): Build solutions iteratively using a table.
+
+Classic Problems:
+
+Fibonacci Sequence
+
+0/1 Knapsack
+
+Longest Common Subsequence (LCS)
+
+Coin Change
+
+Subset Sum
+
+Optimization Strategies:
+
+Time & Space Optimization (e.g., using 1D instead of 2D arrays where possible)
+
+Understanding and defining states (dp[i], dp[i][j])
+
+Writing correct transitions between states
+
+Learning Method:
+
+Start with brute-force → move to memoization → convert to tabulation.
+
+Visualize recursion trees and DP tables.
+
+Debug step-by-step through transitions.
+
+Applied Practice:
+
+LeetCode, HackerRank, AtCoder, Codeforces, and GeeksforGeeks – problem sets focused on real DP interview patterns.
+
+Mindset Shift:
+
+Focus on state transitions and problem structure, not memorizing templates.
+
+Revisit solved problems to reinforce understanding and recognize common patterns.
+
+WEEK 5 - https://colab.research.google.com/drive/1elc3KhBdwK-jsUCmzkGBsr0XB7ylRDkX?usp=sharing
