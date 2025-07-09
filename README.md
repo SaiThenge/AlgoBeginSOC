@@ -117,3 +117,65 @@ Focus on state transitions and problem structure, not memorizing templates.
 Revisit solved problems to reinforce understanding and recognize common patterns.
 
 WEEK 5 - https://colab.research.google.com/drive/1elc3KhBdwK-jsUCmzkGBsr0XB7ylRDkX?usp=sharing
+
+✅ Week 6 – Python Libraries for Competitive Programming
+
+Why Use Libraries:
+
+Pre-written code collections that simplify development, reduce boilerplate, and improve efficiency in problem-solving.
+
+How to Use Libraries:
+
+Properly import libraries (import module, from module import ...)
+
+Navigate official documentation to explore functions and usage
+
+Practice solving problems with and without libraries to understand their utility
+
+Core Libraries to Master:
+
+math: Fast mathematical functions (gcd, sqrt, factorial)
+
+collections: Advanced data structures (Counter, deque, defaultdict)
+
+heapq: Priority queues using min-heaps
+
+bisect: Binary search operations on sorted lists
+
+itertools: Combinatorics, permutations, efficient looping tools
+
+functools: Memoization (lru_cache), decorators, higher-order functions
+
+sys: Fast input/output operations (stdin.readline)
+
+random: Random number generation (useful for testing, simulations)
+
+string: Useful constants like ASCII letters and digits
+
+Documentation & Resources:
+
+Official Python Docs (linked for each module)
+
+🎥 FreeCodeCamp: Core Python Modules
+
+📄 GeeksforGeeks: Python Modules Overview
+
+💡 RealPython: Standard Library Highlights
+
+🧪 PracticePython.org for hands-on coding challenges
+
+Pro Tip:
+
+Focus on knowing how to explore and use libraries, not memorizing functions. Documentation is your best coding companion.
+
+Applied Practice:
+
+Incorporate libraries into coding problems to:
+
+Enhance readability
+
+Reduce time complexity
+
+Focus more on logic than boilerplate
+
+WEEK 6 - https://colab.research.google.com/drive/1DLILI2gEvR0gjI18qOqwxrxR9y-R9aHv?usp=sharing
