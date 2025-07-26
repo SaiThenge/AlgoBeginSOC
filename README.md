@@ -179,3 +179,41 @@ Reduce time complexity
 Focus more on logic than boilerplate
 
 WEEK 6 - https://colab.research.google.com/drive/1DLILI2gEvR0gjI18qOqwxrxR9y-R9aHv?usp=sharing
+
+✅ Week 7 – Python Contest Strategies
+
+Core Concept: Learn to approach coding contests strategically—optimize for accuracy, time, and mindset to perform under pressure.
+
+Contest Techniques
+
+🧠 Mindset
+
+Solve smart, not just fast—start with easier problems.
+
+Know when to skip, guess, or move on.
+
+Focus on maximizing score, not solving everything.
+
+⚙️ Pre-Contest Prep
+
+Set up a fast I/O template and utility functions.
+
+Review key topics: binary search, prefix sums, graphs, etc.
+
+Master Python tools: collections, heapq, bisect, itertools.
+
+⏱️ During Contest
+
+Read all problems first.
+
+Start easy, stay accurate, manage your time.
+
+Stay calm—efficiency comes from clarity, not speed.
+
+🔁 Post-Contest Practice
+
+Upsolve missed problems.
+
+Study editorials and top solutions.
+
+Track your mistakes to avoid repeating them
