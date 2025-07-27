@@ -217,3 +217,53 @@ Upsolve missed problems.
 Study editorials and top solutions.
 
 Track your mistakes to avoid repeating them
+
+✅ Week 8 – PathQuest Lite: Maze Solver
+
+Core Concept:
+
+Optimal pathfinding in weighted grids using graph algorithms.
+
+Key Techniques:
+
+Dijkstra's Algorithm: Priority queues for lowest-cost paths
+
+BFS: Unweighted shortest-path fallback
+
+Energy Cost Mapping: T=3, M=5, .=1
+
+Project Components:
+
+Maze Generation
+
+Random (traps/monsters) or manual input
+
+Dynamic sizing (3x3 to 10x10)
+
+Terminal UI
+
+Interactive menu (1. Manual / 2. Random)
+
+Step-by-step visualization
+
+Algorithm Comparison
+
+python
+
+Dijkstra cost: 7  # Optimal for weighted paths
+
+BFS cost: 10      # Suboptimal but faster
+
+Applied Skills:
+
+heapq for Dijkstra's priority queue
+
+deque for BFS
+
+Contest-style I/O handling
+
+Mindset Shift:
+
+Trade-offs: Optimality (Dijkstra) vs Speed (BFS)
+
+Energy cost as edge weights
