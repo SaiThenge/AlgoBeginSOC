@@ -248,8 +248,6 @@ Step-by-step visualization
 
 Algorithm Comparison
 
-python
-
 Dijkstra cost: 7  # Optimal for weighted paths
 
 BFS cost: 10      # Suboptimal but faster
