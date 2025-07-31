@@ -266,6 +266,20 @@ Trade-offs: Optimality (Dijkstra) vs Speed (BFS)
 
 Energy cost as edge weights
 
+SUMMARY OF THE SOC WEEKS : 
+
+Over the past eight weeks, I undertook a structured Python summer project focused on building both foundational skills and advanced problem-solving techniques. Starting with core Python basics—like variables,
+
+loops, functions, and input/output—I gradually progressed into working with data structures such as lists, dictionaries, and sets. From there, I implemented common algorithms (sorting, searching, recursion,
+
+greedy, and backtracking) and explored time-space complexity through Big-O analysis. Midway, I dove into graph algorithms, learning DFS, BFS, Dijkstra’s, and Union-Find, and later tackled dynamic programming—
+
+solving problems like 0/1 Knapsack and LCS using recursion, memoization, and tabulation. I also explored powerful Python libraries like collections, heapq, and itertools, integrating them into competitive coding
+
+challenges to write cleaner and faster code. In the final weeks, I focused on contest strategies and completed a capstone project: a visual maze solver comparing Dijkstra’s and BFS for weighted paths. The 
+
+experience sharpened not just my coding skills but also how I approach problems—systematically, efficiently, and with the right mindset.
+
 THE PROJECT CODE IS ATTACHED ABOVE
 
 THANK YOU !!! 
